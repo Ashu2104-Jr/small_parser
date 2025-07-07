@@ -18,7 +18,7 @@ Instructions to use this code
     An ARM-based development board (e.g., Raspberry Pi)
     An ARM emulator (e.g., QEMU)
     A cross-compilation toolchain for ARM on your system
-  2.Use the run.sh Script
+  2.Use the run.sh Script (linux bash file)
     After setting up the environment, simply run the provided script to compile your code and generate the output files automatically:
     The run.sh script will:
       Compile your C code and provide output file as a assembly file (.s)
